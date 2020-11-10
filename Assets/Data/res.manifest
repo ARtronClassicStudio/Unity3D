@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 2289460378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f20235d455781946a513e14a307b3d6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 60198dc83c8674039f1bf3ad4febcad0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6854275e59f4754cab31ff196fd2cea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4dd0aa6a5e3ea94a94e60388c421924, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a20faccd2cfaadc45a5346dc101509fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae19c00f4b14c5540ba8b94cc043247d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Meshs/Mesh3/Texture.mat
+- Assets/Meshs/Mesh3.prefab
+- Assets/Meshs/Mesh4/Mesh4.fbx
+- Assets/Meshs/NewTextHD.prefab
+- Assets/Meshs/Mesh2.prefab
+- Assets/Meshs/Mesh4/Texture.mat
+- Assets/Meshs/Mesh1/Diffuse.mat
+- Assets/Meshs/Mesh1.prefab
+- Assets/Meshs/Mesh3/Mesh3.fbx
+- Assets/Meshs/Mesh1/Texture.mat
+- Assets/Meshs/Mesh2/Texture.mat
+- Assets/Meshs/Mesh2/Mesh2.fbx
+- Assets/Meshs/Mesh4.prefab
+- Assets/Meshs/Value.asset
+- Assets/Meshs/Mesh1/Mesh1.fbx
+- Assets/Meshs/Mesh3/Diffuse.mat
+Dependencies: []
