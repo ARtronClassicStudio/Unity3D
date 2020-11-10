@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//Мне не понравилось ваш "ТЗ" поэтому я начал делать по своему. 
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
